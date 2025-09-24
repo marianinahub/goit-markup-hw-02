@@ -57,9 +57,10 @@ h2, h3 {
 }
 
 .team.list > li {
-    color: #FFFFFF;
+    background-color: #FFFFFF;
 }
 
 .portfolio.list > li {
-    color: #FFFFFF;
+    background-color: #FFFFFF;
 }
+
