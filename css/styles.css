@@ -13,7 +13,7 @@ body {
 
 .link {
     text-decoration: none;
-    color:#434455;
+    color:#2e2f42;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -55,7 +55,7 @@ h2, h3 {
     font-weight: 700;
     font-size: 18px;
     text-transform: uppercase;
-    color: #434455;
+    
     
 }
 
@@ -108,7 +108,7 @@ h2, h3 {
     font-size: 18px;                    
     line-height: 1.17;                  
     letter-spacing: 0.03em;
-    color: #4d5ae5;
+    
 }
 
 .footer-text {
@@ -133,6 +133,6 @@ h2, h3 {
     background-color: #FFFFFF;
 }
 
-img.img {
-   background-color: #FFFFFF;
+.item {
+   background-color: #FFFFF;
 }
