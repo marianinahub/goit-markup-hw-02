@@ -25,6 +25,10 @@ body {
     color: #404BBF;
 }
 
+.link.contacts {
+    color: #434455;
+}
+
 .section  {
    background-color: #2E2F42;
    color: #FFFFFF;
@@ -43,10 +47,6 @@ body {
 .button:hover,
 .button:focus {
     background-color: #404BBF;
-}
-
-h2, h3 {
-    color: #2E2F42;
 }
 
 .link.logo {
@@ -134,5 +134,5 @@ h2, h3 {
 }
 
 .item {
-   background-color: #FFFFF;
+   background-color: #FFFFFF;
 }
