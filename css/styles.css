@@ -29,6 +29,11 @@ body {
     color: #434455;
 }
 
+.link.contacts:hover,
+.link.contacts:focus {
+    color: #404BBF;
+}
+
 .section  {
    background-color: #2E2F42;
    color: #FFFFFF;
