@@ -14,9 +14,10 @@ body {
 .link {
     text-decoration: none;
     color:#2E2F42;
-    font-size: 12px;
-    line-height: 16px;
-    letter-spacing: 0.04em;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 
 .link:hover,
@@ -24,7 +25,7 @@ body {
     color: #404BBF;
 }
 
-.hero {
+.section  {
    background-color: #2E2F42;
    color: #FFFFFF;
 }
@@ -43,9 +44,11 @@ h2, h3 {
 
 .link.logo {
     color: #4D5AE5;
-    font-family: sans-serif;
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
     text-transform: uppercase;
-    font-size: 20px;
+    
 }
 
 .logo-light {
@@ -67,11 +70,12 @@ h2, h3 {
     letter-spacing: 0.002em;
 }
 
-h1 {
+.title {
     font-family: 'Raleway', sans-serif;
     font-size: 56px;
-    line-height: 60px;
+    line-height: 1.07;
     letter-spacing: 0.02em;
+    text-align: center;
 }
 
 .section-title {
@@ -99,4 +103,13 @@ h1 {
 .footer-text {
     line-height: 1.5;
     letter-spacing: 0.02em;
+}
+
+.contacts {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px; 
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
 }
