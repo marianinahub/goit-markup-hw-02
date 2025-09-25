@@ -136,3 +136,7 @@ body {
 .item {
    background-color: #FFFFFF;
 }
+
+h2, h3 {
+   color: #2e2f42;
+}
