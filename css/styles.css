@@ -56,7 +56,11 @@ body {
     font-size: 18px;
     text-transform: uppercase;
     
-    
+    .link.logo:hover,
+    .link.logo:focus {
+        color: #404BBF;
+    }
+
 }
 
 .logo-light {
