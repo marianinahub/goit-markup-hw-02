@@ -31,11 +31,13 @@ body {
 }
 
 .button {
-    background-color: #404BBF;
+    background-color: #4D5AE5;
     color: #FFFFFF;
-   font-size: 16px;
-   line-height: 24px;
-   letter-spacing: 0.04em;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    cursor: pointer;
 }
 
 h2, h3 {
@@ -48,6 +50,7 @@ h2, h3 {
     font-weight: 700;
     font-size: 18px;
     text-transform: uppercase;
+    color: #434455;
     
 }
 
@@ -60,6 +63,7 @@ h2, h3 {
 }
 
 .footer {
+    background-color: #2e2f42;
     color: #F4F4FD;
 }
 
@@ -67,7 +71,8 @@ h2, h3 {
 .text {
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.002em;
+    letter-spacing: 0.02em;
+    color: #434455;
 }
 
 .title {
@@ -112,4 +117,12 @@ h2, h3 {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+}
+
+.section.three {
+    background-color: #F4F4FD;
+}
+
+.team.list {
+    background-color: #FFFFFF;
 }
