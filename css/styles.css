@@ -13,7 +13,7 @@ body {
 
 .link {
     text-decoration: none;
-    color:#2E2F42;
+    color:#434455;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -38,6 +38,11 @@ body {
     line-height: 1.5;
     letter-spacing: 0.04em;
     cursor: pointer;
+}
+
+.button:hover,
+.button:focus {
+    background-color: #404BBF;
 }
 
 h2, h3 {
@@ -103,6 +108,7 @@ h2, h3 {
     font-size: 18px;                    
     line-height: 1.17;                  
     letter-spacing: 0.03em;
+    color: #4d5ae5;
 }
 
 .footer-text {
@@ -125,4 +131,8 @@ h2, h3 {
 
 .team.list {
     background-color: #FFFFFF;
+}
+
+img.img {
+   background-color: #FFFFFF;
 }
